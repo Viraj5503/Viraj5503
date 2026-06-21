@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/Viraj5503">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=AI+%26+ML+Master's+Student+%40+TU+Dresden;Working+Student+%40+NXP+Semiconductors;Data+Science+%7C+Deep+Learning+%7C+Embedded+AI;Turning+data+into+decisions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Computer+Science+Master's+Student+%40+TU+Dresden;Working+Student+%40+NXP+Semiconductors" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **M.Sc. Computer Science** student at **TU Dresden**, specialising in **Data Science & Machine Learning**.
+- 🎓 **M.Sc. Computer Science** student at **TU Dresden**.
 - 🛠️ **Working Student at NXP Semiconductors (Dresden)** in **RFSoC digital design & verification** — working at the intersection of **AI and embedded microelectronics**.
 - 🔬 Interested in **machine learning, deep learning, NLP, and embedded/hardware-aware AI**.
 - 🌱 Currently going deeper into **PyTorch, robotics (ROS2), and applied ML research**.
